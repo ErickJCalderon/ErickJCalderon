@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ErickJCalderon
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning Multiplatform Development Aplication
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in Java/Python
+- 🌱 I’m currently working on JPA/JSF/Hibernate and Frameworks in FullStack devs.
+- 💞️ I’m looking to collaborate on IA learning
 - 📫 How to reach me erickc_s@hotmail.com
 
 <!---
